@@ -2,9 +2,9 @@
 **Field Work Experience for Bioinformatics Class of 2025, Humber College**
 
 ## Team Members
-- Mandy Chen: mandyychenn@gmail.com
-- Karolina Urbanovich: karolinaurbanov@gmail.com
-- Ronald Kalani: ronaldkalani@yahoo.ca
+- Mandy Chen
+- Karolina Urbanovich
+- Ronald Kalani
 
 ## Objective
 Analyze breast cancer datasets to uncover insights into gene expression patterns, subtype classifications, and clinical correlations.
