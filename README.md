@@ -1,5 +1,5 @@
 # GroupProject_BreastCancerAnalysis
-**Field Work Experience for Bioinformatics Class of 2025, Humber College**
+**Field Work Experience for Bioinformatics Class of 2024, Humber College**
 
 ## Team Members
 - Mandy Chen
